@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FishI</string>
+    <string name="add_fish">Add Fish</string>
+    <string-array name="fishTypes">
+        <item>Perch</item>
+        <item>Pike</item>
+    </string-array>
+</resources>
